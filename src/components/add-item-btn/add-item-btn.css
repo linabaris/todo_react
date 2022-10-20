@@ -1,0 +1,20 @@
+.add-item-btn {
+    margin-top: 1rem;
+}
+.add-item-btn button {
+    background-color: white;
+    display: block;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    color: #212529;
+    margin: 0 auto;
+    padding: 4px;
+}
+.add-item-btn button:hover {
+    background-color: #6c757d;
+    color: white;
+}
+
+.add-item-btn input {
+    margin-right: 4px;
+}
